@@ -367,6 +367,7 @@ header .intro-text .intro-heading {
     font-family: {{ site.data.template.font.primary }};
     font-size: 40px;
     font-weight: 700;
+    color: #16537e;
     line-height: 40px;
 }
 
