@@ -1,5 +1,26 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 8:00 AM - 8:50 AM
+  info: "<u>Registration & Morning Coffee</u><br><b>College Court</b><br><i>Lounge</i><br><br>"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 8:50 AM - 9:00 AM
+  info: "<u>Welcome Speech</u><br><b>TBD</b><br><i>Position</i><br><br>"
+
+- time: 9:00 AM - 10:00 AM
+  info: "<u>KeyNote Speech</u><br><b>Prof.Andrew Fitzgibbon</b><br><i>Distinguished Engineer at Graphcore</i><br><br>Topic: TBD"
+
+- time: 10:00 AM - 10:20 AM
+  info: "<u>Poster Session & Coffee Break</u><br><b>College Court</b><br><i>Lounge</i><br><br>"
+
+- time: 10:30 AM - 11:30 AM
+  info: "<u>KeyNote Speech</u><br><b>TBD</b><br><i>TBD</i><br><br>Topic: TBD"
+
+- time: 11:30 AM - 12:00 PM
+  info: "<u>Poster Session & Coffee Break</u><br><b>College Court</b><br><i>Lounge</i><br><br>"
+
+- time: 12:00 PM - 13:00 PM
+  info: "<u>Lunch</u><br><b>College Court</b><br><i>Dining Room</i><br><br>"
+
+- time: 13:00 PM - 14:00 PM
+  info: "<u>KeyNote Speech</u><br><b>Prof.Ivan Tyukin</b><br><i>Professor of Applied Mathematics</i><br><br>Topic: TBD"
+
+- time: 14:00 PM
+  info: "<u>Close Speech</u><br><b>TBD</b><br><i>TBD</i><br><br>Topic: TBD"
