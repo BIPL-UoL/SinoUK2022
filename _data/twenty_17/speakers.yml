@@ -1,8 +1,7 @@
 - title: Prof.Andrew Fitzgibbon
   name: Name-1
-  subtitle: | 
-    Distinguished Engineer 
-    Graphcore
+  subtitle: Distinguished Engineer
+  affiliation: Graphcore
   img: AndrewFitzgibbon.jpg
   thumbnail: AndrewFitzgibbon.jpg
   alt: Picture of TBD
@@ -12,6 +11,7 @@
 - title: Prof.Ivan Tyukin
   name: Name-2
   subtitle: Professor of Applied Mathematics
+  affiliation: CMS, University of Leicester
   img: IvanTyukin.jpg
   thumbnail: IvanTyukin.jpg
   alt: Picture of TBD
@@ -21,6 +21,7 @@
 - title: Prof.Edwin Hancock
   name: Name-3
   subtitle: Emeritus Professor, Department of Computer Science
+  affiliation: Department of Computer Science, University of York
   img: EdwinHancock.jpg
   thumbnail: EdwinHancock.jpg
   alt: Picture of TBD
