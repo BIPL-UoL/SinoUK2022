@@ -1,6 +1,8 @@
 - title: Prof.Andrew Fitzgibbon
   name: Name-1
-  subtitle: Distinguished Engineer at Graphcore
+  subtitle: | 
+    Distinguished Engineer 
+    Graphcore
   img: AndrewFitzgibbon.jpg
   thumbnail: AndrewFitzgibbon.jpg
   alt: Picture of TBD
