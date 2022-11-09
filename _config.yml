@@ -26,9 +26,9 @@ plugins:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com
+    url: https://bipl-uol.github.io/
   - title: twitter
-    url: https://twitter.com
+    url: https://twitter.com/uniofleicester
 
 # Build settings
 markdown: kramdown
