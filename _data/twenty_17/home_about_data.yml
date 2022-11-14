@@ -8,7 +8,7 @@
   img: icon-team.jpeg
   name: Team
   info: Find out the team members
-  link: /SinoUK2022/team
+  link: https://bipl-uol.github.io/team/
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
