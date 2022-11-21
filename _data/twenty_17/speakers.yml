@@ -16,24 +16,23 @@
   alt: Picture of TBD
   topic: AI Hardware and Real-world AI
   description: Andrew Fitzgibbon (FREng) is a Distinguished Engineer at Graphcore, working on the future of computing hardware and programming for AI and numerical computing. He is best known for his work on 3D vision. He was a core contributor to the Emmy-award-winning 3D camera tracker “boujou”, having co-founded the company “2d3”, with Andrew Zisserman, Julian Morris, and Nick Bolton; at Microsoft, he introduced massive synthetic training data for Kinect for Xbox 360; and was science lead on the real-time hand tracking in Microsoft's HoloLens. His research interests are broad, spanning computer vision, graphics, machine learning, neuroscience, and most recently programming languages. He has published numerous highly-cited papers, and received many awards for his work, including ten “best paper” prizes at various venues, the Silver medal of the Royal Academy of Engineering, and the BCS Roger Needham award. He is a fellow of the Royal Academy of Engineering, the British Computer Society, and the International Association for Pattern Recognition. Before joining Graphcore in 2022, he spent 15 years at Microsoft, and before then, he was a Royal Society University Research Fellow at Oxford University, having previously studied at Edinburgh University, Heriot-Watt University, and University College, Cork.
-  abstract: <body>
+  abstract: |
 
-AI is fast becoming a significant consumer of the world’s computational power, so it is crucial to use that power wisely and efficiently. 
+    AI is fast becoming a significant consumer of the world's computational power, so it is crucial to use that power wisely and efficiently. 
 
-Our approaches to doing so must span all levels of the research stack
-<ul>
-  <li>Fundamental theoretical understanding of machine learning models and optimizers;</li>
-  <li>Simple translation of those models to efficient code;</li>
-  <li>Efficient layout at the transistor level of floating-point multipliers and RAM. </li>
-</ul> 
+    Our approaches to doing so must span all levels of the research stack
+    <ul>
+      <li>Fundamental theoretical understanding of machine learning models and optimizers;</li>
+      <li>Simple translation of those models to efficient code;</li>
+      <li>Efficient layout at the transistor level of floating-point multipliers and RAM. </li>
+    </ul> 
 
-I will talk about projects, such as real-time computer vision on the Microsoft HoloLens HPU (about 3.5 GFLOPS), which required extreme efficiency in both objective and gradient computations, and how this relates to the training of massive AI models on Graphcore’s IPU (about 350 TFLOPS).
+    I will talk about projects, such as real-time computer vision on the Microsoft HoloLens HPU (about 3.5 GFLOPS), which required extreme efficiency in both objective and gradient computations, and how this relates to the training of massive AI models on Graphcore’s IPU (about 350 TFLOPS).
 
-Key to this work is how we empower programmers to communicate effectively with such hardware, and how we design frameworks and languages to ensure we can put theory into practice. 
+    Key to this work is how we empower programmers to communicate effectively with such hardware, and how we design frameworks and languages to ensure we can put theory into practice. 
 
-So this talk contains aspects of, mathematical optimization, automatic differentiation, programming languages, and silicon design.   Despite this range of topics, the plan is for it to be accessible and useful to anyone who loves computers.
+    So this talk contains aspects of, mathematical optimization, automatic differentiation, programming languages, and silicon design.   Despite this range of topics, the plan is for it to be accessible and useful to anyone who loves computers.
 
-</body>
 - title: Prof.Ivan Tyukin
   name: Name-2
   subtitle: Professor of Applied Mathematics, KCL
