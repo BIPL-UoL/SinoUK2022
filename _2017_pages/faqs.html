@@ -17,8 +17,8 @@ published: true
         <ol>
             {% for faq in site.data.twenty_17.faqs %}
                 <li><b>{{ faq.question }}</b>
-                    <br>{{ faq.answer }}<br><br>
-                    <br><a href = {{ faq.link }}>Online Poster</a><br><br>
+                    <br>{{ faq.answer }}<br>
+                    <br><a href = {{ faq.link }} target="_blank">PDF</a><br><br>
                 </li>
             {% endfor %}
         </ol>
