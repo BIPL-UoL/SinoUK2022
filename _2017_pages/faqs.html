@@ -18,9 +18,9 @@ published: true
             {% for faq in site.data.twenty_17.faqs %}
                 <li><b>{{ faq.question }}</b>
                     <br>{{ faq.answer }}<br>
-                    {% ifequal  faq.link null %}
+                    {% if faq.link %}
                         <br><a href = {{ faq.link }} target="_blank">PDF</a><br><br>
-                    {% endifequal %}    
+                    {% endif %}    
                 </li>
             {% endfor %}
         </ol>
