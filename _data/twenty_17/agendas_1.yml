@@ -1,8 +1,14 @@
-- time: 8:00 AM - 9:00 AM
-  info: "<u>Registration & Morning Coffee</u><br><b>College Court</b><br><i>Lounge</i><br><br>"
+- time: 8:00 AM - 8:30 AM
+  info: "<u>Registration & Morning Coffee</u><br><b>College Court Lounge</b><br><i></i><br><br>"
 
-- time: 9:00 AM - 9:30 AM
-  info: "<u>Welcome Speech</u><br><b>TBD</b><br><i>Position</i><br><br>"
+- time: 8:30 AM - 8:35 AM
+  info: "<u>Logistics</u><br><b>Prof. Huiyu Zhou</b><br><i>Professor, School of Computing and Mathematic Sciences, University of Leicester</i><br><br>"
+
+- time: 8:35 AM - 8:45 AM
+  info: "<u>Welcome Speech</u><br><b>Prof. Simon Gill</b><br><i>Professor, Director of Research at College of Science and Engineering, University of Leicester</i><br><br>"
+
+- time: 8:45 AM - 9:00 AM
+  info: "<u>Introductory Talk</u><br><b>Prof. Alexander Gorban</b><br><i>Professor, School of Computing and Mathematic Sciences, University of Leicester</i><br>Topic: Main problem of modern AI<br>"
 
 - time: 9:30 AM - 10:30 AM
   info: "<u>KeyNote Speech</u><br><b>Prof.Andrew Fitzgibbon (FREng)</b><br><i>Distinguished Engineer at Graphcore</i><br><br>Topic: AI Hardware and Real-world AI"
@@ -14,7 +20,7 @@
   info: "<u>Lunch</u><br><b>College Court</b><br><i>Dining Room</i><br><br>"
 
 - time: 13:00 AM - 14:00 PM
-  info: "<u>KeyNote Speech</u><br><b>Prof.Ivan Tyukin</b><br><i>Professor of Applied Mathematics, University of Leicester</i><br><br>Topic: TBD"
+  info: "<u>KeyNote Speech</u><br><b>Prof.Ivan Tyukin</b><br><i>Professor of Applied Mathematics, University of Leicester</i><br><br>Topic: Rethinking the problem of learning for post-classical data analysis"
 
 - time: 14:00 PM - 15:00 PM
   info: "<u>Close Speech</u><br><b>TBD</b><br><i>TBD</i><br><br>Topic: TBD"
