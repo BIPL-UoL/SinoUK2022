@@ -1,13 +1,13 @@
-- time: 8:00 AM - 8:30 AM
+- time: 8:00 AM - 9:00 AM
   info: "<u>Registration & Morning Coffee</u><br><b>College Court Lounge</b><br><i></i><br><br>"
 
-- time: 8:30 AM - 8:35 AM
+- time: 9:00 AM - 9:05 AM
   info: "<u>Logistics</u><br><b>Prof. Huiyu Zhou</b><br><i>Professor, School of Computing and Mathematic Sciences, University of Leicester</i><br><br>"
 
-- time: 8:35 AM - 8:45 AM
+- time: 9:05 AM - 9:15 AM
   info: "<u>Welcome Speech</u><br><b>Prof. Simon Gill</b><br><i>Professor, Director of Research at College of Science and Engineering, University of Leicester</i><br><br>"
 
-- time: 8:45 AM - 9:00 AM
+- time: 9:15 AM - 9:30 AM
   info: "<u>Introductory Talk</u><br><b>Prof. Alexander Gorban</b><br><i>Professor, School of Computing and Mathematic Sciences, University of Leicester</i><br>Topic: Main problem of modern AI<br>"
 
 - time: 9:30 AM - 10:30 AM
